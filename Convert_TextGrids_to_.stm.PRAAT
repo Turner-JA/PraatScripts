@@ -8,7 +8,7 @@
 ## Input Data Directory
 form Convert Your TextGrids into a .stm (Transcriber) File!
 	comment Path of the directory containing your TextGrids
-	sentence Data_directory C:\Users\jt4g13\Documents\DataAnalysis\VN\NormalisedResampled\Ignore\Test\Test2
+	sentence Data_directory C:\Users\jt4g13\Documents\
 endform
 
 clearinfo
